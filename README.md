@@ -79,7 +79,7 @@ Orders
 
 Testing
 
-* Use Swagger UI at `http://localhost:5000/swagger`
+* Use Swagger UI at `http://localhost:5001/swagger`
 * Use Postman to test all API endpoints
 
 Contribution
